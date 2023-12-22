@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#lizard-container {
+    margin-top: 20px;
+}
+
+#lizard-image {
+    max-width: 100%;
+    height: auto;
+}
